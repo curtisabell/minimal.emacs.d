@@ -1,0 +1,8 @@
+module $1
+  implicit none
+
+  $0
+
+contains
+
+end module $1

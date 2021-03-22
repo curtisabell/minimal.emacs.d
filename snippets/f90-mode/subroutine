@@ -1,0 +1,4 @@
+subroutine $1($2)
+  implicit none
+  $0
+end subroutine $1

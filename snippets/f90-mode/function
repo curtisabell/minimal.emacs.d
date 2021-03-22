@@ -1,0 +1,4 @@
+function $1($2)
+  implicit none
+  $0
+end function $1
